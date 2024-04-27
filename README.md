@@ -1,2 +1,2 @@
-# MedToureasy
+# MedTourEasy
 Internship At MedTourEasy
